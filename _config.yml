@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Ming Zhou"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Ph.D. student at Shanghai Jiao Tong University, interested in Reinforcement Learning"
   location         : "Shanghai, China"
   employer         :
