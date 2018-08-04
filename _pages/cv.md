@@ -16,14 +16,9 @@ Education
 
 Work experience
 ======
-* Since summer 2018: Research Intern
+* Summer 2018: Research Intern
   * [Didi AI-Labs](http://www.didi-labs.com)
   * Duties included: Algorithm research in reinforcement learning
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
   * Supervisor: [Tony Qin](https://sites.google.com/site/tonyqin/home)
 
 Publications
