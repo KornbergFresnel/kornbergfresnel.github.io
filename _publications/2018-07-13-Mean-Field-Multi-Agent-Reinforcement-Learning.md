@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-07-13-Mean-Field-Multi-Agent-Reinforcement-Learning
 date: 2018-07-13
 venue: 'July 13th'
-author: 'Yaodong Yang, Rui Luo, Minne Li, Ming Zhou, Weinan Zhang, Jun Wang'
+author: 'Yaodong Yang, Rui Luo, Minne Li, **Ming Zhou**, Weinan Zhang, Jun Wang'
 publish: 'Proceedings of the 35th International Conference on Machine Learning, PMLR 80:5567-5576, 2018.'
 ---
 
