@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-09-18-Factorized-Q-Learning-for-Large-Scale-Multi-Agent-Systems
 date: 2018-09-18
 venue: 'Sep 18th'
-author: 'Y Chen, **M Zhou**, Y Wen, Y Yang, Y Su, W Zhang, D Zhang, J Wang, H Liu'
+author: '**M Zhou**, Y Chen, Y Wen, Y Yang, Y Su, W Zhang, D Zhang, J Wang, H Liu'
 publish: 'arXiv preprint arXiv:1809.03738'
 ---
 
