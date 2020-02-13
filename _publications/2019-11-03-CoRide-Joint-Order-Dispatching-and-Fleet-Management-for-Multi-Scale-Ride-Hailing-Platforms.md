@@ -1,7 +1,7 @@
 ---
 title: "CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms"
 collection: publications
-permalink: /publication/2019-11-03-CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms
+permalink: /publication/2019-11-03-CoRide-Joint-Order-Dispatching-and-Fleet-Management-for-Multi-Scale-Ride-Hailing-Platforms
 date: 2019-11-03
 venue: 'Nov 3rd'
 author: 'Jiarui Jin, **Ming Zhou**, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye'
