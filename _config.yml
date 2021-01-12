@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ming Zhou"
 title_separator          : "-"
 name                     : &name "Ming Zhou"
-description              : &description "SJTU Ph.D. Student"
+description              : &description "SJTU Ph.D. Candidate"
 url                      : https://kornbergfresnel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kornbergfresnel.github.io"
@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Ming Zhou"
-  avatar           : "avatar.jpg"
-  bio              : "Ph.D. student at Apex Lab, Shanghai Jiao Tong University"
+  avatar           : "avatar.jpeg"
+  bio              : "Ph.D. Candidate at Apex Lab, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=xuW4NIYAAAAJ&hl=en&oi=sra"
-  email            : "mzhou0817@gmail.com"
+  email            : "mingak@sjtu.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "ming-zhou-437b45129"
   orcid            :
   pinterest        :
   soundcloud       :
