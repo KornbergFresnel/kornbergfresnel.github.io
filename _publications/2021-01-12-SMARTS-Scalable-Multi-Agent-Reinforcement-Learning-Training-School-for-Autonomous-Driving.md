@@ -5,7 +5,7 @@ permalink: /publication/2021-01-12-SMARTS-Scalable-Multi-Agent-Reinforcement-Lea
 date: 2021-01-12
 venue: 'Jan 12th'
 author: '**Ming Zhou**, Jun Luo, Julian Villela, Yaodong Yang, David Rusu, Jiayu Miao, Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Aurora Chongxi Huang, Ying Wen, Kimia Hassanzadeh, Daniel Graves, Dong Chen, Zhengbang Zhu, Nhat Nguyen, Mohamed Elsayed, Kun Shao, Sanjeevan Ahilan, Baokuan Zhang, Jiannan Wu, Zhengang Fu, Kasra Rezaee, Peyman Yadmellat, Mohsen Rohani, Nicolas Perez Nieves, Yihan Ni, Seyedershad Banijamali, Alexander Cowen Rivers, Zheng Tian, Daniel Palenicek, Hongbo Zhang, Wulong Liu, Jianye Hao, Jun Wang'
-publish: 'The Conference on Robot Learning (CoRL 2020)'
+publish: 'The Conference on Robot Learning (CoRL 2020), Best System Paper Award'
 ---
 
 ### Abstract
