@@ -13,7 +13,7 @@ Back in 2015, DeepMind proposed their first distributed reinforcement learning a
 
 As we know, reinforcement learning requires a lot of data to do policy learning, larger than any general supervised learning task. To meet this requirement, DeepMind proposed the first work, deploy DQN on a distributed architecture. GDQN performed better than DQN on atari games. Such a distributed trail uncovered the potential of distributed RL. Reported from the paper, it requires 100 concurrent actors on 31 machines, 100 leaners with the network model.
 
-![Deep Q-learning Networks](/images/the_evolution_of_drl/dqn.png)
+![Deep Q-learning Networks](/images/the_evolution_of_drl/dqn.png){:width="80%"}
 
 ## Actor and Learner
 
