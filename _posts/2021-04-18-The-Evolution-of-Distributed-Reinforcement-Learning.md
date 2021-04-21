@@ -74,3 +74,17 @@ Each rollout worker maintains multiple environments which work in series, easily
 ## Conclusion
 
 Many algorithms/frameworks on distributed reinforcement learning were published in recent years to handle big practical tasks. Most of them claimed that they bring new ideas on resources management. However, I don't think it is a very critical problem to be solved. In my opinion, the key is how to resolve the policy lag, reuse outdated data, and async parameter update.
+
+## References
+
+1. Espeholt, Lasse, et al. "Impala: Scalable distributed deep-rl with importance weighted actor-learner architectures." International Conference on Machine Learning. PMLR, 2018.
+2. Mnih, Volodymyr, et al. "Asynchronous methods for deep reinforcement learning." International conference on machine learning. PMLR, 2016.
+3. Nair, Arun, et al. "Massively parallel methods for deep reinforcement learning." arXiv preprint arXiv:1507.04296 (2015).
+4. Babaeizadeh, Mohammad, et al. "Reinforcement learning through asynchronous advantage actor-critic on a gpu." arXiv preprint arXiv:1611.06256 (2016).
+5. Petrenko, Aleksei, et al. "Sample Factory: Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning." International Conference on Machine Learning. PMLR, 2020.
+6. Espeholt, Lasse, et al. "Seed rl: Scalable and efficient deep-rl with accelerated central inference." arXiv preprint arXiv:1910.06591 (2019).
+7. Sun, Peng, et al. "TLeague: A Framework for Competitive Self-Play based Distributed Multi-Agent Reinforcement Learning." arXiv preprint arXiv:2011.12895 (2020).
+8. Hoffman, Matt, et al. "Acme: A research framework for distributed reinforcement learning." arXiv preprint arXiv:2006.00979 (2020).
+9. Dean, Jeffrey, et al. "Large scale distributed deep networks." (2012).
+10. Niu, Feng, et al. "Hogwild!: A lock-free approach to parallelizing stochastic gradient descent." arXiv preprint arXiv:1106.5730 (2011).
+11. Zhang, Huan, Cho-Jui Hsieh, and Venkatesh Akella. "Hogwild++: A new mechanism for decentralized asynchronous stochastic gradient descent." 2016 IEEE 16th International Conference on Data Mining (ICDM). IEEE, 2016. 
