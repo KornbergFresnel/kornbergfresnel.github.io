@@ -6,4 +6,5 @@ tags:
   - multi-agent reinforcement learning
   - robust learning
 ---
-coming soon ...
+
+Diversity in multi-agent reinforcement learning could be categoried into three parts: agent behavior diversity, environment randomness and opponent diversity. 
