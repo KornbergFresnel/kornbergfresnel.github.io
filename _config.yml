@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Ming Zhou"
-  avatar           : "avatar_lab.jpeg"
+  avatar           : "beach_avatar.jpg"
   bio              : "Ph.D. Candidate at Apex Lab, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   github           : "KornbergFresnel"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ming_zak"
   lastfm           :
   linkedin         : "ming-zhou-437b45129"
   orcid            :
@@ -170,6 +170,12 @@ kramdown:
 
 # Collections
 collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -257,9 +263,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

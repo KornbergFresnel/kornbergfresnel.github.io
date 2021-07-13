@@ -37,7 +37,9 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:Regular:400,700);
 
 .archive__item-excerpt {
   margin-top: 0.1em;
@@ -46,7 +48,15 @@
 }
 
 .page .page__inner-wrap {
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Roboto Slab', 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.page__content h1,h2,h3,h4,h5,h6,p{
+  font-family: 'Merriweather';
+}
+
+.page__title {
+  font-family: 'Roboto Slab';
 }
 
 .page {
@@ -54,6 +64,18 @@
   font-size: 16px;
 }
 
-p {
+.page_content p {
   text-align: justify;
+}
+
+li.masthead__menu-item {
+  font-family: 'Roboto Slab';
+}
+
+.sidebar .author__name {
+  font-family: 'Roboto Slab';
+}
+
+*[lang="zh-Hans"] {
+  font-family: STKaiTi, KaiTi, FangSong, SimSun, serif;
 }
