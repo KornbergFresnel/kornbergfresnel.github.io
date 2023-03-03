@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ming earned his Bachelor Degree from [Sichuan University](http://en.scu.edu.cn) in 2018. Now, he is a Ph.D. candidate in the [School of Electronic Information and Electrical Enginerring](http://www.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io). His research interests lie in the multi-agent learning and systems, particularly in multi-agent reinforcement learning, game theory and the development of large-scale multi-agent learning system.
+Ming earned his Bachelor's Degree from [Sichuan University](http://en.scu.edu.cn) in 2018 and started his doctoral student career at Shanghai Jiaotong University in the same year. He will graduate in June. 2023 with a Ph.D. degree from the [School of Electronic Information and Electrical Engineering](http://www.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io). His research interests lie in multi-agent learning and systems, evolutionary/empirical game theory, and reinforcement learning.
 
 
 **MORE**: [Apex Lab](http://apexlab.org) / [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn)
