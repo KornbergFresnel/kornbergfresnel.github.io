@@ -18,6 +18,7 @@ author_profile: true
 
 ## Journal (Invited Reviewer)
 
+- Frontiers of Computer Science
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Automation Science and Engineering
 - Elsevier Neurocomputing
