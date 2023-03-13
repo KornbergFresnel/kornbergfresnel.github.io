@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Zhou"
+title                    : "Ming Chow"
 title_separator          : "-"
-name                     : &name "Ming Zhou"
+name                     : &name "Ming Chow"
 description              : &description "SJTU Ph.D. Candidate"
 url                      : https://kornbergfresnel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Zhou"
+  name             : "Ming Chow"
   avatar           : "avatar.jpg"
   bio              : "Ph.D. Candidate at Apex Lab, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
