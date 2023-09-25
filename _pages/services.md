@@ -19,6 +19,8 @@ author_profile: true
 
 ## Journal (Invited Reviewer)
 
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- Springer Machine Learning
 - Frontiers of Computer Science
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Automation Science and Engineering
