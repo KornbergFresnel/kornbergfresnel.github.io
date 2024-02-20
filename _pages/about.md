@@ -26,7 +26,7 @@ Ming is a Researcher at [Shanghai Artificial Intelligence Laboratory](https://ww
 
 ## Recent News
 
-- 6th Feb 2024 - We published an language-centered framework [OpenPAL](https://github.com/opendilab/openpal), integrating open-ended RL and LLM as an efficient solution for human-AI intearction
+- 6th Feb 2024 - We published a language-centered framework [OpenPAL](https://github.com/opendilab/openpal), integrating open-ended RL and LLM as an efficient solution for human-AI interaction
 - 2nd Mar 2023 - A paper entitled "MALib: A parallel framework for population-based multi-agent reinforcement learning" has been accepted by the **Journal of Machine Learning Research 2023**
 - 24th Dec 2022 - A preprint entitled "On Realization of Intelligent Decision-Making in the Real World: A Foundation Decision Model Perspective" has been published
 - 7th Dec 2022 - We open-sourced a large-scale multi-modal pre-trained model on Github, [check it and star!](https://github.com/Shanghai-Digital-Brain-Laboratory/BDM-DB1)
