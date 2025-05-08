@@ -26,6 +26,7 @@ Ming is a Researcher at [Shanghai Artificial Intelligence Laboratory](https://ww
 
 ## Recent News
 
+- 1st May 2025 - A paper entitled "Efficient Skill Discovery via Regret-Aware Optimization" has been accpeted by **ICML 2025**. We frames unsupervised exploration as a min-max game, and find skills which maximize Regret, as this suggests that the policy has not yet fully converged -- building on the success of regret in other domains such as UED.
 - 6th Feb 2024 - We published a language-centered framework [OpenPAL](https://github.com/opendilab/openpal), integrating open-ended RL and LLM as an efficient solution for human-AI interaction
 - 2nd Mar 2023 - A paper entitled "MALib: A parallel framework for population-based multi-agent reinforcement learning" has been accepted by the **Journal of Machine Learning Research 2023**
 - 24th Dec 2022 - A preprint entitled "On Realization of Intelligent Decision-Making in the Real World: A Foundation Decision Model Perspective" has been published
