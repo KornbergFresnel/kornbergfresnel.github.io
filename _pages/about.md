@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ming is a Researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). He obtained his Bachelor's Degree from [Sichuan University](http://en.scu.edu.cn) in 2018. Following his passion for research and intellectual pursuits, Ming pursued his doctoral degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) in the same year and earned his Ph.D. degree in 2023 from the [School of Electronic Information and Electrical Engineering](http://www.seiee.sjtu.edu.cn/), under the esteemed guidance of Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io). Ming's research interests encompass cutting-edge fields such as open-ended learning, embodied-AI, and machine learning systems.
-
-
-**MORE**: [Apex Lab](http://apexlab.org) / [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn)
+I'm a researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/). My research interests lie in reinforcement learning, multi-agent learning and machine learning systems. Now, I'm focusing on bringing empirical game theoretical analysis into the research of multi-robotics interaction and multi-modality foundations. I obtained my Bachelor's Degree from [Sichuan University](http://en.scu.edu.cn) in 2018 and earned my Ph.D. degree in 2023 from the [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), under the esteemed guidance of Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io).
 
 
 ## Career
