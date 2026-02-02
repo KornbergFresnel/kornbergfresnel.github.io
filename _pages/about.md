@@ -25,6 +25,7 @@ I hold a Bachelor’s Degree from [Sichuan University (2018)](http://en.scu.edu.
 
 ## Recent News
 
+- 2nd Feb. 2026 - We release [RoboStiker](https://arxiv.org/abs/2601.22517), the first autonomous humanoid boxing robot in the physical world.
 - 1st Feb. 2026 - A paper entitled "H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer" has been accepted by **ICRA 2026**. We propose H-Zero, a cross-humanoid locomotion pretraining pipeline that learns a generalizable humanoid base policy to enhance deployment efficiency on new robots.
 - 1st May 2025 - A paper entitled "Efficient Skill Discovery via Regret-Aware Optimization" has been accpeted by **ICML 2025**. We frames unsupervised exploration as a min-max game, and find skills which maximize Regret, as this suggests that the policy has not yet fully converged -- building on the success of regret in other domains such as UED.
 - 6th Feb 2024 - We published a language-centered framework [OpenPAL](https://github.com/opendilab/openpal), integrating open-ended RL and LLM as an efficient solution for human-AI interaction
