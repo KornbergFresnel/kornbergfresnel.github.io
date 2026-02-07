@@ -1,8 +1,8 @@
 ---
 title: "RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing"
 collection: publications
-permalink: /publication/2026-02-01-RoboStriker
-date: 2026-02-01
+permalink: /publication/2026-02-02-RoboStriker
+date: 2026-02-02
 author: 'Kangning Yin, Zhe Cao, Wentao Dong, Weishuai Zeng, Tianyi Zhang, Qiang Zhang, Jingbo Wang, Jiangmiao Pang, **Ming Zhou**, Weinan Zhang'
 publish: 'arXiv:2601.22517'
 ---
