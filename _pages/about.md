@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), with core research interests in reinforcement learning, multi-agent learning, and machine learning systems. My current work focuses on integrating empirical game theoretical analysis into multi-robot interaction and multi-modality foundation research.
+I'am currently a researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), with core research interests in reinforcement learning, multi-agent learning, and machine learning systems. My current work focuses on integrating empirical game theoretical analysis into multi-robot interaction and multi-modality foundation research. I earned my a Ph.D. from [Shanghai Jiao Tong University (2023)](https://en.sjtu.edu.cn), where I was advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io). And now, I collaborate closely with [Weinan Zhang](http://wnzhang.net) and [Chunhua Shen](https://cshen.github.io).
 
-I hold a Bachelor’s Degree from [Sichuan University (2018)](http://en.scu.edu.cn) and a Ph.D. from [Shanghai Jiao Tong University (2023)](https://en.sjtu.edu.cn), where I was advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io).
+<mark>I am looking for self-driven candidates to work with me. If you share my vision, please contact me. We have positions for researchers, engineers, interns and joint-training PhD students.</mark>
 
 
 ## Career
@@ -25,6 +25,7 @@ I hold a Bachelor’s Degree from [Sichuan University (2018)](http://en.scu.edu.
 
 ## Recent News
 
+- 1st May. 2026 - 4 papers accepted by ICML'26.
 - 5th Feb. 2026 - We published [XHugWBC](https://arxiv.org/abs/2602.05791), a novel cross-embodiment framework that enables a single neural control policy to achieve robust, zero-shot locomotion across a diverse range of humanoid robots.
 - 2nd Feb. 2026 - We release [RoboStiker](https://arxiv.org/abs/2601.22517), the first autonomous humanoid boxing robot in the physical world.
 - 1st Feb. 2026 - A paper entitled "H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer" has been accepted by **ICRA 2026**. We propose H-Zero, a cross-humanoid locomotion pretraining pipeline that learns a generalizable humanoid base policy to enhance deployment efficiency on new robots.
