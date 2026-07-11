@@ -23,6 +23,12 @@ I'am currently a researcher at [Shanghai Artificial Intelligence Laboratory](htt
 - Sept. 2014 ~ Jun. 2018 - Bachelor, [Sichuan University](http://en.scu.edu.cn)
 
 
+## Highlights
+
+- Nov. 2020 - Our [SMARTS](https://github.com/huawei-noah/SMARTS) won **Best System Paper Award** of CoRL 2020.
+- Mar. 2023 - Open-sourced project: [MALib](https://github.com/sjtu-marl/malib), a parallel framework for population-based RL.
+- Feb. 2026 - We are beginning to explore applying empirical game theory to robot interaction ([RoboStriker](https://arxiv.org/abs/2601.22517)), building on top of a behavior foundation model, and pushing toward the next level of robot decision-making intelligence.
+
 ## Recent News
 
 - 1st May. 2026 - 4 papers accepted by ICML'26.
@@ -34,4 +40,3 @@ I'am currently a researcher at [Shanghai Artificial Intelligence Laboratory](htt
 - 2nd Mar 2023 - A paper entitled "MALib: A parallel framework for population-based multi-agent reinforcement learning" has been accepted by the **Journal of Machine Learning Research 2023**
 - 24th Dec 2022 - A preprint entitled "On Realization of Intelligent Decision-Making in the Real World: A Foundation Decision Model Perspective" has been published
 - 7th Dec 2022 - We open-sourced a large-scale multi-modal pre-trained model on Github, [check it and star!](https://github.com/Shanghai-Digital-Brain-Laboratory/BDM-DB1)
-- Nov. 2020 - Our [SMARTS](https://github.com/huawei-noah/SMARTS) won **Best System Paper Award** of CoRL 2020.
