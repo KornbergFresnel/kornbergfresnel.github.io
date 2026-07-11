@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'am currently a researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), with core research interests in reinforcement learning, multi-agent learning, and machine learning systems. My current work focuses on integrating empirical game theoretical analysis into multi-robot interaction and multi-modality foundation research. I earned my Ph.D. from [Shanghai Jiao Tong University (2023)](https://en.sjtu.edu.cn), where I was advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io). And now, I collaborate closely with [Weinan Zhang](http://wnzhang.net) and [Chunhua Shen](https://cshen.github.io).
+I am currently a researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), with core research interests in reinforcement learning, multi-agent learning, and machine learning systems. My current work focuses on integrating empirical game theoretical analysis into multi-robot interaction and multi-modality foundation research. I earned my Ph.D. from [Shanghai Jiao Tong University (2023)](https://en.sjtu.edu.cn), where I was advised by Prof. [Weinan Zhang](http://wnzhang.net) and Prof. [Ying Wen](https://yingwen.io). And now, I collaborate closely with [Weinan Zhang](http://wnzhang.net) and [Chunhua Shen](https://cshen.github.io).
 
 <mark>I am looking for self-driven candidates to work with me. If you share my vision, please contact me. We have positions for researchers, engineers, interns and joint-training PhD students.</mark>
 
